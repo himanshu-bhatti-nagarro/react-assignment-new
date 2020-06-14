@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-assignment-new/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/react-assignment-new/static/js/main.cc56d5b7.chunk.js",
+    "main.js.map": "/react-assignment-new/static/js/main.cc56d5b7.chunk.js.map",
+    "runtime-main.js": "/react-assignment-new/static/js/runtime-main.3958731f.js",
+    "runtime-main.js.map": "/react-assignment-new/static/js/runtime-main.3958731f.js.map",
+    "static/js/2.1e5afb32.chunk.js": "/react-assignment-new/static/js/2.1e5afb32.chunk.js",
+    "static/js/2.1e5afb32.chunk.js.map": "/react-assignment-new/static/js/2.1e5afb32.chunk.js.map",
+    "index.html": "/react-assignment-new/index.html",
+    "precache-manifest.036f99f617f83526826230392c6029ec.js": "/react-assignment-new/precache-manifest.036f99f617f83526826230392c6029ec.js",
+    "service-worker.js": "/react-assignment-new/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/react-assignment-new/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.1e5afb32.chunk.js.LICENSE.txt": "/react-assignment-new/static/js/2.1e5afb32.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3958731f.js",
+    "static/js/2.1e5afb32.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.cc56d5b7.chunk.js"
+  ]
+}
